@@ -1,4 +1,4 @@
-# SHU - A Blockchain Based Climatology Dataset Publication Platform
+# SHU - A Blockchain Climatology Dataset Publication Platform
 
 ## Introduction
 
@@ -39,5 +39,3 @@ If the feasibility study receives a favourable peer review then the next logical
 3. Coupled Model Inter-Comparison Project - https://www.wcrp-climate.org/wgcm-cmip
 3. Institut Pierre Simon Laplace - https://www.ipsl.fr.
 4. Tangent Spoke: https://bit.ly/2HpTx03
-		
-		
