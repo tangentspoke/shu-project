@@ -22,9 +22,9 @@ Blockchains are secure by design and exemplify an economically strong distribute
 
 Tangent Spoke is a Swiss based R & D software consultancy led by Mark Greenslade, a highly experienced software architect.  For several years Tangent Spoke has provided consultancy services to The Institut Pierre Simon Laplace (IPSL), a Paris based climate modelling institute of international repute.  Tangent Spoke, under the guidance of , & in association with the IPSL, proposes to conduct a feasibility study into the use of blockchain technologies within the context of CMIP6.  Such a study is likely to encompass the following tasks:
 
-1.Preparation of a white paper on the potential of blockchain to deliver a decentralised dataset publication platform for CMIP6.  This white paper will be peer reviewed by IPSL partners within the international community;
+1. Preparation of a white paper on the potential of blockchain to deliver a decentralised dataset publication platform for CMIP6.  This white paper will be peer reviewed by IPSL partners within the international community;
 
-2.Development of functional prototypes:  
+2. Development of functional prototypes:  
 - A publication command line client;  
 - A realtime publication monitoring web portal;  
 - A dataset discovery web portal;  
