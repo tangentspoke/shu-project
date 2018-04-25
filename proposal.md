@@ -25,10 +25,10 @@ Tangent Spoke is a Swiss based R & D software consultancy led by Mark Greenslade
 1.Preparation of a white paper on the potential of blockchain to deliver a decentralised dataset publication platform for CMIP6.  This white paper will be peer reviewed by IPSL partners within the international community;
 
 2.Development of functional prototypes:  
-	2.1 A publication command line client;  
-	2.2 A realtime publication monitoring web portal;  
-	2.3 A dataset discovery web portal;  
-	2.4 A market place web portal.
+- A publication command line client;  
+- A realtime publication monitoring web portal;  
+- A dataset discovery web portal;  
+- A market place web portal.
 
 ## Further Information
 
